@@ -1,7 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Diagnostics.Contracts;
-
-namespace Services.Implementations
+﻿namespace Services.Implementations
 {
     using System;
     using System.Collections.Generic;
